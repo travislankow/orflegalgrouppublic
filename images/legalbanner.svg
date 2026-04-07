@@ -1,0 +1,20 @@
+<svg width="1470" height="807" viewBox="0 0 1470 807" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+    <path d="M50 20V180M50 20L10 40M50 20L90 40" stroke="#2C3E50" stroke-width="4" stroke-linecap="round"/>
+    <path d="M20 180H80" stroke="#2C3E50" stroke-width="6" stroke-linecap="round"/>
+    <path d="M10 40L-10 90H30L10 40Z" fill="#D4AF37" stroke="#2C3E50" stroke-width="2"/>
+    <path d="M90 40L70 90H110L90 40Z" fill="#D4AF37" stroke="#2C3E50" stroke-width="2"/>
+    <rect x="35" y="150" width="30" height="10" rx="2" fill="#7E5109"/>
+
+  <path d="M200 60H600L620 40H180L200 60Z" fill="#2C3E50"/>
+  <rect x="200" y="60" width="400" height="40" fill="#B8860B"/>
+  <text x="400" y="87" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">PROFESSIONAL TORT DEFENSE COUNSEL</text>
+
+  <text x="400" y="125" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#555" text-anchor="middle">Diligence • Advocacy • Resolution</text>
+
+
+
+
+
+  <line x1="100" y1="380" x2="700" y2="380" stroke="#D4AF37" stroke-width="2" stroke-dasharray="5,5"/>
+</svg>
